@@ -3,5 +3,5 @@ numpy==1.25.0
 pandas==2.0.3
 prophet==1.1.4
 statsmodels==0.14.0
-gunicorn
-dash-tools
+gunicorn == 21.2.0
+dash-tools == 1.11.1
