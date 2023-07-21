@@ -12,6 +12,3 @@
 
 #### Note:
 * The `assets` folder contains a file called `favicon.ico` -- you can find and download customized favicons [here](https://www.favicon.cc/). Just replace the current favicon with a new one!
-# TimeSeries_PythonApp
-# TimeSeries_PythonApp
-# TimeSeries_PythonApp
