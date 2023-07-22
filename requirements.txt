@@ -2,3 +2,4 @@ dash-vtk
 dash-bootstrap-components
 vtk
 numpy
+gunicorn==21.2.0
