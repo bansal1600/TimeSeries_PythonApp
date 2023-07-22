@@ -1,6 +1,6 @@
 # How to deploy a simple Plotly Dash app on Heroku
 
-* You can view the finished app on [Render]([https://flying-dog.herokuapp.com/](https://tsmodel.onrender.com/)).
+* You can view the finished app on [Render](https://tsmodel.onrender.com/)
 
 ### Additional Reading
 * Plotly’s [Dash deployment guide](https://dash.plotly.com/deployment)
