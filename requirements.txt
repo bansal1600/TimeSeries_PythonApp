@@ -4,3 +4,6 @@ vtk
 numpy
 gunicorn==21.2.0
 pandas
+dash==2.9.3
+scikit_learn
+plotly
