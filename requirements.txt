@@ -7,3 +7,4 @@ pandas
 dash==2.9.3
 scikit_learn
 plotly
+statsmodels
